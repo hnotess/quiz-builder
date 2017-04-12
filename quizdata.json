@@ -1,0 +1,60 @@
+[
+  {
+    "question_id" : 0,
+    "question": "What is the original native name of Mount Rainier?",
+    "answers": [
+      {"id": 0, "text": "Tahoma"},
+      {"id": 1, "text": "Shuksan"},
+      {"id": 2, "text": "Stillaguamish"}
+
+    ],
+    "correct": 0
+  },
+  {
+    "question_id" : 1,
+		"question" : "Which image shows a close-up of the Nisqually Glacier?",
+		"answers"  : [
+			{"id"  : 0, "image" : "images/quizImages/glacier_01.jpg" },
+			{"id"  : 1, "image" : "images/quizImages/glacier_02.jpg" },
+			{"id"  : 2, "image" : "images/quizImages/glacier_03.jpg" },
+			{"id"  : 3, "image" : "images/quizImages/glacier_04.jpg" }
+		],
+		"correct"  : 3
+	},
+	{
+      "question_id" : 2,
+		"question" : "True or false: Mount Rainier is an active volcano?",
+		"answers"  : [
+			{"id"  : 0, "text" : "False"},
+			{"id"  : 1, "text" : "True"}
+
+		],
+		"correct"  : 1
+	},
+	{
+      "question_id" : 3,
+		"question" : "How many major glaciers are on top of Mount Rainier?",
+		"answers"  : [
+			{"id"  : 0, "text" : "25"},
+			{"id"  : 1, "text" : "18"},
+			{"id"  : 2, "text" : "9"},
+			{"id"  : 3, "text" : "36"},
+			{"id"  : 4, "text" : "26"},
+			{"id"  : 5, "text" : "21"}
+		],
+		"correct"  : 4
+	},
+	{
+      "question_id" : 4,
+		"question" : "Which American poet wrote a poem about the Nisqually Glacier, titled 'An Octopus?'",
+		"answers"  : [
+			{"id"  : 0, "text" : "Robert Frost", "image": "images/quizImages/frost.jpg"},
+			{"id"  : 1, "text" : "Walt Whitman", "image": "images/quizImages/whitman.jpg"},
+      {"id"  : 2, "text" : "Elizabeth Bishop", "image": "images/quizImages/bishop.jpg"},
+      {"id"  : 3, "text" : "Marianne Moore", "image": "images/quizImages/moore.jpg"},
+      {"id"  : 4, "text" : "Robert Lowell","image": "images/quizImages/lowell.jpg"}
+
+		],
+		"correct"  : 3
+	}
+]
