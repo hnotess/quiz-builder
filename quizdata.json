@@ -35,14 +35,11 @@
       "question_id" : 3,
 		"question" : "How many major glaciers are on top of Mount Rainier?",
 		"answers"  : [
-			{"id"  : 0, "text" : "25"},
-			{"id"  : 1, "text" : "18"},
-			{"id"  : 2, "text" : "9"},
-			{"id"  : 3, "text" : "36"},
-			{"id"  : 4, "text" : "26"},
-			{"id"  : 5, "text" : "21"}
+			{"id"  : 0, "text" : "9"},
+			{"id"  : 1, "text" : "36"},
+			{"id"  : 2, "text" : "26"}
 		],
-		"correct"  : 4
+		"correct"  : 2
 	},
 	{
       "question_id" : 4,
@@ -51,8 +48,7 @@
 			{"id"  : 0, "text" : "Robert Frost", "image": "images/quizImages/frost.jpg"},
 			{"id"  : 1, "text" : "Walt Whitman", "image": "images/quizImages/whitman.jpg"},
       {"id"  : 2, "text" : "Elizabeth Bishop", "image": "images/quizImages/bishop.jpg"},
-      {"id"  : 3, "text" : "Marianne Moore", "image": "images/quizImages/moore.jpg"},
-      {"id"  : 4, "text" : "Robert Lowell","image": "images/quizImages/lowell.jpg"}
+      {"id"  : 3, "text" : "Marianne Moore", "image": "images/quizImages/moore.jpg"}
 
 		],
 		"correct"  : 3
