@@ -2,7 +2,7 @@
 
 Quiz Builder is a simple JavaScript quiz app.
 
-Take the [sample quiz](http://mcbomber.bitbucket.io/) to see how it works.
+Take the [sample quiz](http://hnotess.github.io/quiz-builder) to see how it works.
 
 ### About Quiz Builder ###
 
@@ -42,13 +42,9 @@ External libraries are loaded from CDN in the sample quiz and include:
 
 #### Social sharing
 To enable social sharing via Facebook and Twitter with big, pretty pictures, you will need to update meta tags in the HTML and make use of the following:
-* Twitter Card - large image
-https://dev.twitter.com/cards/types/summary-large-image
-* Facebook JavaScript SDK - you will need to create a new app in the app dashboard
-https://developers.facebook.com/apps
-https://developers.facebook.com/docs/javascript/quickstart
-
+* [Twitter Card - large image](https://dev.twitter.com/cards/types/summary-large-image)
+* [Facebook JavaScript SDK](https://developers.facebook.com/docs/javascript/quickstart) - you will need to create a new app in the app dashboard
 
 ### Credits ###
 
-* This project was created by Hannah Notess and Seth McOmber for JavaScript 200 in the University of Washington Professional and Continuing Education Certificate program.
+* This project was created by [Hannah Notess](https://github.com/hnotess) and [Seth McOmber](https://github.com/smcomber) for JavaScript 200 in the University of Washington Professional and Continuing Education Certificate program.
