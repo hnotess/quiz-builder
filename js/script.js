@@ -203,8 +203,7 @@ window.onload = init;
 
 // get the quiz data from the external JSON file
 function getData(){
-  //for testing only:   $.getJSON( "http://sethmcomberdesign.com/JS200B/quizapp/quizdata.json?v=100", function( data ) {
-  $.getJSON( "https://mcbomber.bitbucket.io/quizdata.json", function( data ) {
+  $.getJSON( "https://hnotess.github.io/quizdata.json", function( data ) {
     quizSetupv2(data);
   });
 }
