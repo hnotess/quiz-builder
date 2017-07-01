@@ -16,7 +16,7 @@ Take the [sample quiz](http://hnotess.github.io/quiz-builder) to see how it work
 * Store any images that will be used in your quiz questions in the quizImages file.
 * Store any images that will be used in the general UI in the siteImages file, update HTML accordingly.
 * Customize your CSS
-* In `script.js`, update the following jQuery function with a link to your json file.
+* In `src/js/script.js`, update the following jQuery function with a link to your json file.
 ```
 $.getJSON( "https://yourdomain/yourfile.json", function( data ) {
   quizSetupv2(data);

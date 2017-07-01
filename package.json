@@ -1,0 +1,31 @@
+{
+  "name": "quiz-builder",
+  "version": "1.0.1",
+  "description": "Quiz Builder is a simple JavaScript quiz app.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hnotess/quiz-builder.git"
+  },
+  "keywords": [
+    "quiz"
+  ],
+  "author": "Hannah Notess",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hnotess/quiz-builder/issues"
+  },
+  "homepage": "https://github.com/hnotess/quiz-builder#readme",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "~0.10.0",
+    "grunt-contrib-nodeunit": "~0.4.1",
+    "grunt-contrib-uglify": "^0.5.1"
+  }
+}
