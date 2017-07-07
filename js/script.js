@@ -203,7 +203,7 @@ window.onload = init;
 
 // get the quiz data from the external JSON file
 function getData(){
-  $.getJSON( "https://hnotess.github.io/quizdata.json", function( data ) {
+  $.getJSON( "https://hnotess.github.io/quiz-builder/quizdata.json", function( data ) {
     quizSetupv2(data);
   });
 }
