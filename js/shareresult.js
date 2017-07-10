@@ -38,6 +38,6 @@ $("#twitterbtn").click(function() {
   //create dynamic tweet text
   var tweet = $(".result").text();
   tweet = tweet.replace("You", "I");
-  var tweetURL = "https://twitter.com/intent/tweet?text=" + encodeURIComponent(tweet + " Try it for yourself! https://mcbomber.bitbucket.io");
+  var tweetURL = "https://twitter.com/intent/tweet?text=" + encodeURIComponent(tweet + " Try it for yourself! https://hnotess.github.io/quiz-builder");
   $("#twitterbtn").attr("href", tweetURL);
 });
